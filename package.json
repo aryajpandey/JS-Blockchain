@@ -1,0 +1,21 @@
+{
+  "name": "project-aries",
+  "version": "0.1.0",
+  "description": "A new cryptocurrency for creators",
+  "main": "jechain.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "",
+    "url": ""
+  },
+  "keywords": [
+    "blockchain",
+    "sha256",
+    "crypto"
+  ],
+  "author": "Aryaj 'AJ' Pandey",
+  "license": "MIT",
+  "homepage": ""
+}
