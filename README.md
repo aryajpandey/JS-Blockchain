@@ -15,12 +15,34 @@ But, one day, I got back the inspiration to work on my idea from a youtube video
 
 So, I thought to myself that even though Bitcoin and Ethereum are dominating today, there is absolutely not certainity that they will continue to dominate in the near future, there will always be one person who will come up with an better idea to race past them in value.
 
-## How to run
 
-Currently, this sample blockchain will run on nodejs and uses crypto.js as a dependency.
+## 🚀 About Me
+What to say... I have always been very fond of technology. I started programming at age 10-11 and 
+by age 13, was freelancing by  converting photoshop web designs
+to html frontend. 
 
-````
-npm i crypto-js
-````
+Then, at age 14, I started learning Java because at the time, I got my first android smartphone
+and I wanted to create a camera app that was significantly better 
+than the stock app.(Most low end phones had shitty software at the time.)
+I created a camera app using camera2 api.
+
+This helped me into landing my first internship at a local 
+startup that was creating a web browser to be popular in India.
+
+I never liked traditional form of education, as I believed more in
+self-learning, a thing that I like most, even today.
+
+All of my hours of coding, and couple of programming languages later,
+I got into Illinois Tech on a very comfortable scholarship. As of 21' I'm
+a freshman with couple of LOAs trying to get my feet steady in a new country
+with much different culture that I'm accustomed to.
+
+I've always loved creator platforms like Youtube and Instagram(but not Tik-Tok)
+, but I'm always midly infuriated by the fact that their main source of revenue
+is ad-sense, which in turn degrades the end viewer experience. 
+
+And I want to be the one to change that by using my cryptocurrency to provide
+value to these creators.
+
 
 
