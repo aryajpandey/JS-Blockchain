@@ -16,6 +16,28 @@ But, one day, I got back the inspiration to work on my idea from a youtube video
 So, I thought to myself that even though Bitcoin and Ethereum are dominating today, there is absolutely not certainity that they will continue to dominate in the near future, there will always be one person who will come up with an better idea to race past them in value.
 
 
+## A New Inspiration 1/11/21
+
+I was thinking about not writing today, as I delved deeper
+into how to create a blockchain. Hours later, on google and reddit,
+I realised a problem - creating a standalone, custom blockchain from scratch
+will take probably a long time.
+
+There is also two ways of approaching this problem. Either 
+I can Abe Lincoln this (Sharpening the Proverbial Axe and then start the cutting)
+or, I can follow the current word's richest man and just execute, improving it in the later 
+iterations.
+
+So, I finally decided- let's solve this problem the Elon way
+
+At first, I'll be forking out Ethereum Blockchain using geth, 
+an implementation of ethereum written in Golang. No issue
+with learning the programming language, as you tend to learn
+new languages easy when you're already adept at many languages.
+
+So tommorow, I'll learn Golang and study the go-ethereum code.
+
+
 ## 🚀 About Me
 What to say... I have always been very fond of technology. I started programming at age 10-11 and 
 by age 13, was freelancing by  converting photoshop web designs
